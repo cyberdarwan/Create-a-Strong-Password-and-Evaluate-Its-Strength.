@@ -40,7 +40,7 @@ To understand the characteristics that make a password strong and evaluate its s
 | `Tr0ub4dor&3` | 74% | Strong | Good mix but partially predictable |
 | `uK3$8m!9X@7lQ#2d` | 100% | Very Strong | Random, long, and complex |
 
-![image.png](attachment:44db49ba-2488-499b-8b08-324b35b7a3a1:image.png)
+
 
 ---
 
